@@ -1,7 +1,7 @@
 # URL e HTTP State
 Compreendendo o conceito e utilização de URL State e HTTP State 
 
-*Para o estudo foi utilizado em destaque o React + Vite junto o React Query* 
+*Para o estudo foi utilizado em destaque o React + Vite junto com o React Query*
 
 ## URL State
 - É uma forma de centralizar valores e informações de estados e filtros por exemplo. Com esse pratica dentro React pode até dispensar a utilização de estados em alguns casos.
